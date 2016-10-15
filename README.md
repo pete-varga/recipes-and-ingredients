@@ -34,4 +34,4 @@ Alkalmazások fejlesztése 1/3 beadandó
 * felhasználó: receptek keresését, böngészését, megtekintését, saját receptjeinek módositását (új recept, recept törlése, recept képének megváltoztatása), receptek értékelését és más felhasználók által beküldött receptek hozzávalóinak, leirásainak angolra forditását végezheti
 
 ## Használati eset diagram (Use Case Diagram)
-![caption](images/receptek_UCD.PNG)
+![Használati eset diagram](images/receptek_UCD.PNG)
