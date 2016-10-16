@@ -35,7 +35,7 @@ Alkalmazások fejlesztése 1/3 beadandó
 
 ## Használati eset diagram (Use Case Diagram)
 ![Használati eset diagram](images/receptek_UCD.PNG)
-Link: [http://bit.ly/2dWj9nw](http://bit.ly/2dWj9nw)
+Link: [http://bit.ly/2dVzarp](http://bit.ly/2dVzarp)
 
 ## Folyamat diagramok
 ### Bejelentkezés folyamata
@@ -52,7 +52,7 @@ Link: [http://bit.ly/2dWjVki](http://bit.ly/2dWjVki)
 
 ### Receptek fordításának folyamata
 ![Receptek forditásának folyamata](images/receptek_activity4.PNG)
-Link: [http://bit.ly/2ed5Z5u](http://bit.ly/2ed5Z5u)
+Link: [http://bit.ly/2e9sGng](http://bit.ly/2e9sGng)
 
 ### Új recept felvételének folyamata
 ![Új recept felvételének folyamata](images/receptek_activity5.PNG)
