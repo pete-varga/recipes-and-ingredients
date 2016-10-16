@@ -35,6 +35,7 @@ Alkalmazások fejlesztése 1/3 beadandó
 
 ## Használati eset diagram (Use Case Diagram)
 ![Használati eset diagram](images/receptek_UCD.PNG)
+
 Link: [http://bit.ly/2dVzarp](http://bit.ly/2dVzarp)
 
 ## Folyamat diagramok
